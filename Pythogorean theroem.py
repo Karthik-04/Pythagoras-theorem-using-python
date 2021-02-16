@@ -1,6 +1,6 @@
 #importing sqrt(i.e. Square root) from math library
 
-#Pythagoras Theorm
+#Pythagoras Theorem 
 
 # c=√a²+b²
 # a=√c²-b²
