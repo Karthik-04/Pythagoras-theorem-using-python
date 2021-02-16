@@ -1,4 +1,12 @@
 #importing sqrt(i.e. Square root) from math library
+
+#Pythagoras Theorm
+
+# c=√a²+b²
+# a=√c²-b²
+# b=√c²-a²
+
+
 from math import sqrt
 #Hii..This is a program which helps you to find the values using Pythagorean theorem.
 print("Hii.... Enter any two values and give  ?  for the value to be find.")
